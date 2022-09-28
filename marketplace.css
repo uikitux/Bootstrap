@@ -8368,7 +8368,7 @@ label {
 
 /* '' */
 .bootstrap-themes-icon-star:before, .rating__item:before {
-  content: '\e806'; }
+  content: '＊'; }
 
 /* '' */
 .bootstrap-themes-icon-desktop:before {
